@@ -472,8 +472,9 @@ footer .credit {
 }
 
 /* phone */
-@media (max-width: 450px) {
+/* @media (max-width: 450px) {
   html {
     font-size: 55%;
   }
 }
+ */
