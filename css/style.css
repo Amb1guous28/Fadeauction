@@ -476,13 +476,4 @@ footer .credit {
   html {
     font-size: 55%;
   }
-  #ham-menu{
-  color: #000000;
-  display: inline-block;
-  margin: 0 1rem;
-  font-size: 1.5rem;
-  text-decoration: none;
-  margin-left: 33rem;
-  display: flex;
-}
 }
